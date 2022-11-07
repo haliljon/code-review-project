@@ -1,0 +1,10 @@
+#text-box {
+    display: grid;
+}
+body {
+    text-align: left;
+    margin: auto 500px;
+}
+label {
+    text-align: center;
+}
